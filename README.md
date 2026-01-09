@@ -25,9 +25,6 @@ I enjoy working with data, building dashboards, and extracting meaningful insigh
 - Excel  
 - Power BI  
 
-### 🔹 Tools 
-- GitHub  
-
 ---
 
 ## 📂 Featured Projects
