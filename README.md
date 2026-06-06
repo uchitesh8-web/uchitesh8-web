@@ -8,7 +8,7 @@ I enjoy working with data, building dashboards, and extracting meaningful insigh
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Currently a Final-Year student and aspiring data professional  
+- 🎓 I'm a Recent Graduate student and aspiring data professional  
 - 📊 Passionate about analyzing data and finding patterns  
 - 📈 Interested in Data Analytics, Business Intelligence, and Visualization  
 - 🚀 Actively building projects to strengthen my analytical skills  
